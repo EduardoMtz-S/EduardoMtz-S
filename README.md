@@ -32,13 +32,11 @@ Me gusta aprender constantemente, experimentar con nuevas tecnologías y colabor
 ## 📂 Proyectos
 Aquí iré agregando algunos de mis proyectos.  
 
-- [Chatbot de Apoyo Emocional](#)  
-  App con detección de sentimientos y depresión usando ML y Python.  
-
-- [Modelos de Machine Learning](#)  
-  Implementación de Gradient Boosting y Random Forest para detección de patrones.  
+- [🛒 Punto de Ventas – Soriano](https://github.com/EduardoMtz-S/punto-ventas-soriano)  
+  Sistema de punto de ventas para gestión de inventario, ventas y reportes. Incluye documentación completa en PDF con diagramas, mockups y pruebas.  
 
 *(más proyectos próximamente... 🚀)*
+
 
 ---
 

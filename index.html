@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portafolio | Eduardo Martínez</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <!-- Navbar -->
+  <nav class="flex justify-between items-center p-6 shadow-md bg-white">
+    <h1 class="text-2xl font-bold text-blue-600">Eduardo Martínez</h1>
+    <ul class="flex gap-6">
+      <li><a href="#sobre-mi" class="hover:text-blue-600">Sobre mí</a></li>
+      <li><a href="#proyectos" class="hover:text-blue-600">Proyectos</a></li>
+      <li><a href="#contacto" class="hover:text-blue-600">Contacto</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero -->
+  <section class="h-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-600 to-indigo-700 text-white text-center">
+    <h2 class="text-5xl font-extrabold mb-4">Hola, soy Eduardo 👋</h2>
+    <p class="text-lg max-w-xl">Desarrollador en formación apasionado por crear soluciones digitales. Me enfoco en sistemas, apps y proyectos creativos con impacto real.</p>
+  </section>
+
+  <!-- Sobre mí -->
+  <section id="sobre-mi" class="py-20 px-8 max-w-5xl mx-auto">
+    <h2 class="text-3xl font-bold mb-6 text-blue-600">Sobre mí</h2>
+    <p class="leading-relaxed text-lg">
+      Soy estudiante de Sistemas con interés en <strong>desarrollo de software</strong>, 
+      <strong>machine learning</strong> y proyectos creativos. Me gusta trabajar en equipo, 
+      experimentar con nuevas tecnologías y aprender constantemente.
+    </p>
+  </section>
+
+  <!-- Proyectos -->
+  <section id="proyectos" class="py-20 px-8 bg-gray-100">
+    <h2 class="text-3xl font-bold mb-12 text-blue-600 text-center">Proyectos</h2>
+    <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+      <!-- Proyecto 1 -->
+      <div class="bg-white p-6 rounded-2xl shadow hover:shadow-lg transition">
+        <h3 class="text-xl font-bold mb-2">Chatbot de Apoyo Emocional</h3>
+        <p class="mb-4">App con detección de sentimientos y depresión usando ML y Python.</p>
+        <a href="#" class="text-blue-600 font-semibold">Ver más →</a>
+      </div>
+      <!-- Proyecto 2 -->
+      <div class="bg-white p-6 rounded-2xl shadow hover:shadow-lg transition">
+        <h3 class="text-xl font-bold mb-2">Portafolio Gamer Setup</h3>
+        <p class="mb-4">Personalización de espacio gamer con LEDs, diseño y estilo minimalista.</p>
+        <a href="#" class="text-blue-600 font-semibold">Ver más →</a>
+      </div>
+      <!-- Proyecto 3 -->
+      <div class="bg-white p-6 rounded-2xl shadow hover:shadow-lg transition">
+        <h3 class="text-xl font-bold mb-2">Modelos de Machine Learning</h3>
+        <p class="mb-4">Implementación de Gradient Boosting y Random Forest para detección de patrones.</p>
+        <a href="#" class="text-blue-600 font-semibold">Ver más →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contacto -->
+  <section id="contacto" class="py-20 px-8 max-w-4xl mx-auto text-center">
+    <h2 class="text-3xl font-bold mb-6 text-blue-600">Contacto</h2>
+    <p class="mb-6">¿Quieres trabajar conmigo o saber más sobre mis proyectos? Escríbeme:</p>
+    <a href="mailto:tuemail@example.com" class="bg-blue-600 text-white px-6 py-3 rounded-full shadow hover:bg-blue-700 transition">Enviar correo</a>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-gray-400 text-center py-6">
+    <p>© 2025 Eduardo Martínez. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>

@@ -33,7 +33,10 @@ Me gusta aprender constantemente, experimentar con nuevas tecnologías y colabor
 Aquí iré agregando algunos de mis proyectos.  
 
 - [🛒 Punto de Ventas – Soriano](https://github.com/EduardoMtz-S/punto-ventas-soriano)  
-  Sistema de punto de ventas para gestión de inventario, ventas y reportes. Incluye documentación completa en PDF con diagramas, mockups y pruebas.  
+  Sistema de punto de ventas para gestión de inventario, ventas y reportes. Incluye documentación completa en PDF con diagramas, mockups y pruebas.
+
+- [🧙‍♀️ Escape de las Brujas – Roblox](https://github.com/EduardoMtz-S/roblox-escape-brujas)  
+  Juego multijugador en Roblox donde los jugadores deben escapar de una mansión llena de trampas y enemigos. Incluye lobby, mapa principal y capturas en galería.
 
 *(más proyectos próximamente... 🚀)*
 
